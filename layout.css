@@ -1,0 +1,78 @@
+
+label{
+    text-align: center;
+}
+
+#addUser{
+    position: relative;
+    border: 1px solid;
+    margin-left: 20px;
+    padding-right: 15px;
+}
+
+#date{
+    position: relative;
+
+
+}
+
+#firstName{
+    position: relative;
+}
+
+#submit{
+    position: relative;
+    padding: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+.centerBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.comments{
+    position: relative;
+    text-align: left;
+}
+
+.favLang{
+    display: flex;
+    flex-direction: row;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+.formContent{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.status{
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.textwrap{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    align-items: center;
+}
